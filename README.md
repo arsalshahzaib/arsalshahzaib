@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @arsalshahzaib. This is my university Github profile.
+- 👋 Hi, I’m @arsalshahzaib. This is my Github profile.
 - 👀 I’m interested in persuing a career in Cybersecurity.
 - 🌱 I’m currently doing a Cybersecurity Internship at a software house.
 - 💞️ Not Looking to collaborate on anything right now as i am concentrated on starting my career.
