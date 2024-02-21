@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @arsalshahzaib. This is my university Github profile.
-- 👀 I’m interested in persuing a career in Cybersecurity and carrying on my passion for gaming and streaming.
-- 🌱 I’m currently struggling in completing my Bachelors degree in Computer Science from an institute that i would prefer to stay unknown as it's not a good one and i don't suggest anyone to go there.
-- 💞️ I’m looking to collaborate on nothing at the moment but i might be interested in starting an internship at a Cybersec firm.
+- 👀 I’m interested in persuing a career in Cybersecurity.
+- 🌱 I’m currently doing a Cybersecurity Internship at a software house.
+- 💞️ Not Looking to collaborate on anything right now as i am concentrated on starting my career.
 - 📫 You can reach me by contacting on either here or email me @ arsalshahzaib@outlook.com
 
 <img src="/imgs/thesam3guy.png" alt="TryHackMe">
