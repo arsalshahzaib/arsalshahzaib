@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on nothing at the moment but i might be interested in starting an internship at a Cybersec firm.
 - 📫 You can reach me by contacting on either here or email me @ arsalshahzaib@outlook.com
 
-<script src="https://tryhackme.com/badge/433779"></script>
+<img src="https://tryhackme-badges.s3.amazonaws.com/thesam3guy.png" alt="TryHackMe">
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="d749bc56-5f3e-4181-bcb8-93b9951399b4" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 <!---
