@@ -5,7 +5,8 @@
 - 📫 You can reach me by contacting on either here or email me @ arsalshahzaib@outlook.com
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/thesam3guy.png" alt="TryHackMe">
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="d749bc56-5f3e-4181-bcb8-93b9951399b4" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<img src="/imgs/fortinet-certified-fundamentals-cybersecurity.png" alt="Fortinet Certified Fundamentals Cybersecurity">
+
 
 <!---
 arsalshahzaib/arsalshahzaib is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
