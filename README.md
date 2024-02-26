@@ -1,9 +1,9 @@
+## Introduction:
 - 👋 Hi, I’m @arsalshahzaib. Welcome to my Github profile.
-- 👀 I’m interested in persuing a career in Cybersecurity.
+- 👀 I have started persuing a career in Cybersecurity.
 - 🌱 I’m currently doing a Cybersecurity Internship at a software house.
 - 💞️ Not Looking to collaborate on anything right now as i am concentrated on starting my career.
 - 📫 You can reach me by contacting on either here or email me @ arsalshahzaib@outlook.com
-- ✅ Down below you will be able to see my progress or achievements in my Cybersecurity career till now.
 
 ## Notable Badges and Certifications:
 <img src="/imgs/thesam3guy.png" alt="TryHackMe">
