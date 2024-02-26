@@ -7,8 +7,14 @@
 
 ## Notable Badges and Certifications:
 <img src="/imgs/thesam3guy.png" alt="TryHackMe">
-<img src="/imgs/fortinet-certified-fundamentals-cybersecurity.png" alt="Fortinet Certified Fundamentals Cybersecurity"> 
-<img src="/imgs/fortinet-certified-associate-cybersecurity.1.png" alt="Fortinet Certified Associate Cybersecurity" style="float:right;"> 
+<!-- <img src="/imgs/fortinet-certified-fundamentals-cybersecurity.png" alt="Fortinet Certified Fundamentals Cybersecurity"> 
+<img src="/imgs/fortinet-certified-associate-cybersecurity.1.png" alt="Fortinet Certified Associate Cybersecurity">  -->
+<table>
+    <tr>
+        <td><img src="/imgs/fortinet-certified-fundamentals-cybersecurity.png" alt="Fortinet Certified Fundamentals Cybersecurity"> </td>
+        <td><img src="/imgs/fortinet-certified-associate-cybersecurity.1.png" alt="Fortinet Certified Associate Cybersecurity"></td>
+    </tr>
+</table>
 
 <!---
 arsalshahzaib/arsalshahzaib is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
