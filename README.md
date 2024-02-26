@@ -9,6 +9,11 @@
 <img src="/imgs/thesam3guy.png" alt="TryHackMe">
 <!-- <img src="/imgs/fortinet-certified-fundamentals-cybersecurity.png" alt="Fortinet Certified Fundamentals Cybersecurity"> 
 <img src="/imgs/fortinet-certified-associate-cybersecurity.1.png" alt="Fortinet Certified Associate Cybersecurity">  -->
+<style>
+table, th, td {
+  border:0px;
+}
+</style>
 <table>
     <tr>
         <td><img src="/imgs/fortinet-certified-fundamentals-cybersecurity.png" alt="Fortinet Certified Fundamentals Cybersecurity"> </td>
