@@ -9,7 +9,8 @@
 <img src="/imgs/thesam3guy.png" alt="TryHackMe">
 <img src="/imgs/fortinet-certified-fundamentals-cybersecurity.png" alt="Fortinet Certified Fundamentals Cybersecurity">
 <img src="/imgs/fortinet-certified-associate-cybersecurity.1.png" alt="Fortinet Certified Associate Cybersecurity">
-
+![Fortinet Certified Associate Cybersecurity](/imgs/fortinet-certified-associate-cybersecurity.1.png)
+![Fortinet Certified Fundamentals Cybersecurity](/imgs/fortinet-certified-fundamentals-cybersecurity.png)
 <!---
 arsalshahzaib/arsalshahzaib is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
