@@ -7,8 +7,6 @@
 
 ## Notable Badges and Certifications:
 <img src="/imgs/thesam3guy.png" alt="TryHackMe">
-<!-- <img src="/imgs/fortinet-certified-fundamentals-cybersecurity.png" alt="Fortinet Certified Fundamentals Cybersecurity"> 
-<img src="/imgs/fortinet-certified-associate-cybersecurity.1.png" alt="Fortinet Certified Associate Cybersecurity">  -->
 
 <table>
     <tr>
