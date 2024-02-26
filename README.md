@@ -11,9 +11,9 @@
 <img src="/imgs/fortinet-certified-associate-cybersecurity.1.png" alt="Fortinet Certified Associate Cybersecurity">  -->
 
 <table style="border:0px;">
-    <tr>
-        <td><img src="/imgs/fortinet-certified-fundamentals-cybersecurity.png" alt="Fortinet Certified Fundamentals Cybersecurity"> </td>
-        <td><img src="/imgs/fortinet-certified-associate-cybersecurity.1.png" alt="Fortinet Certified Associate Cybersecurity"></td>
+    <tr style="border:0px;">
+        <td style="border:0px;"><img src="/imgs/fortinet-certified-fundamentals-cybersecurity.png" alt="Fortinet Certified Fundamentals Cybersecurity"> </td>
+        <td style="border:0px;"><img src="/imgs/fortinet-certified-associate-cybersecurity.1.png" alt="Fortinet Certified Associate Cybersecurity"></td>
     </tr>
 </table>
 
