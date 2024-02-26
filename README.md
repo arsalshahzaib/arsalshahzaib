@@ -5,6 +5,7 @@
 - 📫 You can reach me by contacting on either here or email me @ arsalshahzaib@outlook.com
 - ✅ Down below you will be able to see my progress or achievements in my Cybersecurity career till now.
 
+## Notable Badges and Certifications:
 <img src="/imgs/thesam3guy.png" alt="TryHackMe">
 <img src="/imgs/fortinet-certified-fundamentals-cybersecurity.png" alt="Fortinet Certified Fundamentals Cybersecurity">
 <img src="/imgs/fortinet-certified-associate-cybersecurity.1.png" alt="Fortinet Certified Associate Cybersecurity">
