@@ -1,7 +1,7 @@
 ## Introduction:
 - 👋 Hi, I’m @arsalshahzaib. Welcome to my Github profile.
 - 👀 I have started persuing a career in Cybersecurity.
-- 🌱 I’m currently doing a Cybersecurity Internship at a software house.
+- 🌱 I’m currently not doing something specifically but looking for a Cybersecurity Internship/Associate level job.
 - 💞️ Not Looking to collaborate on anything right now as i am concentrated on starting my career.
 - 📫 You can reach me by contacting on either here or email me @ arsalshahzaib@outlook.com
 
