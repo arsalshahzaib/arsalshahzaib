@@ -12,6 +12,7 @@
     <tr>
         <td><img src="/imgs/fortinet-certified-fundamentals-cybersecurity.png" alt="Fortinet Certified Fundamentals Cybersecurity"></td>
         <td><img src="/imgs/fortinet-certified-associate-cybersecurity.1.png" alt="Fortinet Certified Associate Cybersecurity"></td>
+        <td><img src="/imgs/introduction-to-cybersecurity.png" alt="Introduction to Cybersecurity"></td>
     </tr>
 </table>
 
