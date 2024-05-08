@@ -7,6 +7,7 @@
 
 ## Notable Badges and Certifications:
 <img src="/imgs/thesam3guy.png" alt="TryHackMe">
+<a href="https://stackexchange.com/users/23205274"><img src="https://stackexchange.com/users/flair/23205274.png" width="208" height="58" alt="profile for TheSameGuy on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for TheSameGuy on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 
 <table>
     <tr>
